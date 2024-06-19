@@ -16,7 +16,7 @@ module.exports = {
           removeEmptyAttrs: false,
           removeEmptyContainers: false,
           removeOffCanvasPaths: false,
-          removeUselessDefs: false,
+          removeUselessDefs: true,
           cleanupIDs: false,
         },
       },
